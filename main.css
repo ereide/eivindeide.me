@@ -1,0 +1,55 @@
+body {
+    background-color: #DDFDDD
+}
+
+p.carousel{
+    color: #FFFFF0; 
+    font-size: xx-large
+ }
+
+h1.carousel {
+    color: #FFFFA0;
+    font-size: xx-large;
+}
+
+.bgimage {
+    background-image: url("resources/cambridge_university.jpg");
+    font-family: 'Times New Roman', Times, serif
+}
+
+img.profilepic {
+    width: 100%;
+
+}
+
+div.container {
+    width: 1200px;
+}
+
+img {
+    max-height: 600px;
+    overflow: hidden;
+
+}
+
+div.infobox {
+    padding: 10px;
+    border-style: groove;
+    background-color: #FFFFA0;
+}
+
+div.carousel-caption .text {
+
+    color: #FFFFFF;
+    font: 100;
+
+} 
+
+.personal-text {
+    font-size: larger;
+}
+
+
+.featurette-divider {
+    margin: 30px 0;
+}
